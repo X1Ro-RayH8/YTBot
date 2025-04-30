@@ -33,6 +33,7 @@ ydl_opts_base = {
     'no_warnings': True,
     'writethumbnail': True,
     'embedthumbnail': True,
+    'cookiefile': 'cookies.txt'
 }
 
 # Ініціалізація клієнта Telegram
