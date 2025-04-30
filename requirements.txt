@@ -1,5 +1,4 @@
-import os
-import asyncio
-import re
-import yt_dlp
-import logging
+telethon==1.33.0
+ytmusicapi==1.4.0
+yt-dlp==2024.04.09
+python-dotenv==1.0.1
