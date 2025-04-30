@@ -1,4 +1,4 @@
 telethon==1.33.0
-ytmusicapi==1.4.0
-yt-dlp==2024.04.09
+ytmusicapi==1.10.3
+yt-dlp==2025.03.31
 python-dotenv==1.0.1
