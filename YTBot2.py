@@ -18,7 +18,7 @@ API_HASH = '79d70c1924d4cbbafcea5b8bcbbd8dc1'  # Замініть на ваш AP
 BOT_TOKEN = '8173348706:AAFvKfdvUxH-9_UhTo2Wo0QMI03pjLVuyAw'  # Замініть на ваш BOT_TOKEN
 
 # Ініціалізація YTMusic API
-ytmusic = YTMusic("headers_auth.json")
+ytmusic = YTMusic()
 
 # Налаштування yt-dlp - Основні налаштування без метаданих
 ydl_opts_base = {
